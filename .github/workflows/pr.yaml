@@ -26,6 +26,7 @@ jobs:
       - conda-python-scikit-learn-accel-tests
       - conda-python-cuml-accel-upstream-tests
       - conda-notebook-tests
+      - docs-build-matrix
       - docs-build
       - publish-api-docs
       - telemetry-setup
